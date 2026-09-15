@@ -1,10 +1,10 @@
-# 🚀 Facebook Token & Cookie Grabber Tool
+# 🚀 Tool Get Token Facebook Katana
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Author](https://img.shields.io/badge/Author-HuyCoder-orange)
 
-Một công cụ tự động hoá bằng **Python** hỗ trợ đăng nhập và bóc tách `Access Token` (EAAB/EAAG) cùng `Cookies` Facebook với hiệu suất cao. Tool sử dụng cơ chế mã hoá mật khẩu **RSA / AES-GCM** trực tiếp qua Graph API (`FB4A`), vượt qua cơ chế xác thực 2 lớp (2FA TOTP) một cách mượt mà và an toàn.
+Một công cụ tự động hoá bằng **Python** hỗ trợ đăng nhập và bóc tách `Access Token Katana` cùng `Cookies` Facebook với hiệu suất cao. Tool sử dụng cơ chế mã hoá mật khẩu **RSA / AES-GCM** trực tiếp qua Graph API Katana, vượt qua cơ chế xác thực 2 lớp một cách mượt mà và an toàn.
 
 ---
 
